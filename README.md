@@ -9,8 +9,8 @@ This has actually helped me become more vigilant about how I manage my expenditu
 
 ### 📸 Screenshots
 
-</img1>
+<img src="img1.png" alt="Financial Summary Screenshot" width="800"/>
 
 <br/>
 
-</img2>
+<img src="img2.png" alt="Heatmap Visualization Screenshot" width="800"/>
