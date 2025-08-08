@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-together
 streamlit
-pymupdf
-=======
 together
-streamlit
 pymupdf
->>>>>>> 4a8de3e3a9ae6372e8f996f07de9e7ad579ad7e7
 pandas
+matplotlib
+reportlab
